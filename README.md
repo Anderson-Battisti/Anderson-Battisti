@@ -1,7 +1,7 @@
 # Hi, I'm Anderson Battisti 👋
 
 ### About Me
-- 🎓 TI student at the University of Vale do Taquari in an intensive course.
+- 🎓 IT student at the University of Vale do Taquari in an intensive course.
 - 🌍 Fluent in English.
 - 💻 I have been studying various languages and technologies, always seeking to learn and improve.
 - 🚀 A programming enthusiast and problem solver, I see software development as a hobby that goes beyond obligation, providing learning and satisfaction in each new concept I learn.
