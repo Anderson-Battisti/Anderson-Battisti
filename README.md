@@ -15,7 +15,7 @@
 - **Virtualization**: Basic knowledge of Linux virtual machines
 
 ### Currently I Am
-- 📚 Improving my skills in PostgreSQL and back-end and front-end technologies.
+- 📚 Improving my skills in back-end and front-end technologies.
 - 🔨 Exploring React and building personal and academic projects to apply what I learn.
 - 💡 Studying the use of VMs and Linux for development optimization.
 
