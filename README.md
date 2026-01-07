@@ -2,7 +2,7 @@
 
 ### About Me
 - 🎓 IT student.
-- 🌍 Fluent in English.
+- 🌍 Fluent in English, Portuguese and Italian.
 - 💼 Full Stack Software Developer at Interact Solutions | 📍 Lajeado - RS 🇧🇷
 - 💻 I have been studying various languages and technologies, always seeking to learn and improve.
 - 🚀 A programming enthusiast and problem solver, I see software development as a hobby that goes beyond obligation, providing learning and satisfaction in each new concept I learn.
@@ -10,8 +10,8 @@
 
 ### Technologies & Tools I Use
 - **Languages**: Java, JavaScript, TypeScript
-- **Front-end**: HTML, CSS, React
-- **Data Persistence**: MySQL, PostgreSQL, SQL Server, Oracle 
+- **Front-end**: HTML, CSS, React, ZK Framework
+- **Data Persistence**: MySQL, PostgreSQL, SQL Server, Oracle, Java Serialization 
 - **Environments**: Experience with Linux (basic use via terminal)
 - **Virtualization**: Basic knowledge of Linux virtual machines
 
@@ -23,7 +23,7 @@
 
 ### Contact
 - 📫 Find me at https://www.linkedin.com/in/anderson-battisti-594094169/.
-- 📫 Email: anderson.battisti@universo.univates.br.
+- 📫 Email: anderson.battisti@universo.univates.br | andernardinobattisti@gmail.com
 - 📞 +55 (11) 9 8658-5872.
 
 
