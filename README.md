@@ -17,7 +17,7 @@
 
 ### Currently I Am
 - 📚 Improving my skills in back-end and front-end technologies.
-- ☕︎   Exploring Java and OOP concepts.
+- ☕︎  Exploring Java and OOP concepts.
 - 🔨 Exploring React and building personal and academic projects to apply what I learn.
 - 💡 Studying the use of VMs and Linux for development optimization.
 
